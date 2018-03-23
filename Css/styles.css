@@ -1,8 +1,26 @@
 header {
 }
+h1{
+  /* main heading*/
+}
+h2{ /* tool bar */
+
+}
+h3{
+  /* Venue larger text  */
+}
+image{
+
+}
+
+
 body {
 }
 p {
+  /* text talk about specific part eg dress 1 */
+}
+.small{
+  /* price for each item */
 }
 @media (max-width: 500px) {
   }
