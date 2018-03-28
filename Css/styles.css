@@ -48,7 +48,7 @@ article{
 p { /*Further Information for Options*/
   font-size: 25px;
   font-family: "Acme";
-  max-width: 850px;
+  max-width: 800px;
   background: black;
   background: -webkit-linear-gradient(bottom,rgba(0,0,0,1),rgba(0,0,0,0.4));
   background: -moz-linear-gradient(bottom,rgba(0,0,0,1),rgba(0,0,0,0.4));
@@ -83,7 +83,7 @@ input[type="submit"]{
   background-color: #e08283;
   color: white;
   font-size: 20px;
-  padding: 5px 5px 7.5px 5px;
+  margin: 10px 5px 5px 7.5px;
 }
 button{
   background-color: #f1a9a0;
@@ -97,6 +97,7 @@ button{
   }
   h3{
     font-size: 30px;
+    padding: 15px;
   }
   h4{
     font-size: 20px;
@@ -129,7 +130,7 @@ div{
   text-align: center;
   font-family: "Pacifico";
   font-size: 25px;
-  padding: 0 0 17.5px 0;
+  margin: 0 auto;
 }
 .guildhall{
   background-image: url("https://www.bathvenues.co.uk/sites/bath_venues/files/heritage/Cahoots%20copy%20resized.jpg");
