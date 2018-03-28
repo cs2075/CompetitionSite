@@ -38,6 +38,7 @@ image{
 body {
   margin: 0 auto;
   font-family: helvetica, sans-serif;
+  text-align: center;
 }
 article{
   padding: 25px;
@@ -47,7 +48,7 @@ article{
 p { /*Further Information for Options*/
   font-size: 25px;
   font-family: "Acme";
-  max-width: 750px;
+  max-width: 850px;
   background: black;
   background: -webkit-linear-gradient(bottom,rgba(0,0,0,1),rgba(0,0,0,0.4));
   background: -moz-linear-gradient(bottom,rgba(0,0,0,1),rgba(0,0,0,0.4));
@@ -131,27 +132,40 @@ div{
   padding: 0 0 17.5px 0;
 }
 .guildhall{
-  background-image: url("http://www.free-city-guides.com/wp-content/uploads/2014/10/Bath-Guildhall-exterior.jpg");
+  background-image: url("https://www.bathvenues.co.uk/sites/bath_venues/files/heritage/Cahoots%20copy%20resized.jpg");
+  background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
 }
 .hawaii{
   background-image: url("https://imgur.com/ThyYBaz.jpg");
   background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
 }
 .seoul{
   background-image: url("https://www.telegraph.co.uk/content/dam/Travel/Destinations/Asia/south-korea/Seoul-night-aerial.jpg");
   background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
 }
 .sorrento{
   background-image: url("https://imgur.com/ykDNorC.jpg");
   background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
 }
 .crete{
   background-image: url("https://www.travelandinspiration.com/wp-content/uploads/2017/05/beach-villas-bali-crete-greece.jpg");
   background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
 }
 .cornwall{
   background-image: url("https://webpics.classic.co.uk/webpic/2763/27630156.jpg");
   background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
 }
 </html>
 /*colors:
