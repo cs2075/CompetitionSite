@@ -4,24 +4,43 @@ header {
 h1{ /*Stressy Jessy*/
   text-align: center;
   color: #e08283;
+  font-size: 50px;
 }
 h2{ /*Tool Bar*/
   background-color: #019875;
   color: white;
+  font-size: 30px;
 }
 h3{ /*Page-Specific Title*/
+  font-size: 30px;
 }
 h4{ /*Page Options 1-5*/
+  font-size: 20px;
 }
 image{
 }
 body {
+  font-family: helvetica;
 }
 article{
 }
 p { /*Further Information for Options*/
+  font-size: 15px;
 }
 .small{ /*Prices for Options*/
+}
+input{
+  border: 0.5;
+  padding: 10px;
+  font-size: 15px;
+  color: grey;
+}
+input[type="submit"]{
+  border: 0.25;
+  background-color: #e08283;
+  color: white;
+  font-size: 17.5px;
+  padding: 7.5px;
 }
 @media (max-width: 500px) {
 }
