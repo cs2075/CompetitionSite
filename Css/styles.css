@@ -1,29 +1,32 @@
+<!DOCTYPE html>
 header {
 }
-h1{ /* main heading*/
+h1{ /*Stressy Jessy*/
+  text-align: center;
   color: #e08283;
 }
-h2{ /* tool bar */
+h2{ /*Tool Bar*/
   background-color: #019875;
   color: white;
 }
-h3{ /* your title for your page  */
+h3{ /*Page-Specific Title*/
 }
-h4{ /* large text within your page eg dress 1   */
+h4{ /*Page Options 1-5*/
 }
 image{
 }
 body {
 }
-p { /* text talk about specific part eg dress 1 */
+article{
 }
-.small{ /* price for each item */
+p { /*Further Information for Options*/
+}
+.small{ /*Prices for Options*/
 }
 @media (max-width: 500px) {
 }
-
+</html>
 /*colors:
-
 PALETTE CHOICE 1
 light blue #4ecdc4
 turquoise #1ba39c
@@ -37,3 +40,4 @@ medium pink #eeb0b0
 light pink #f9cae6
 light mint #b3ffb4
 dark grey #5e5e5e
+*/
