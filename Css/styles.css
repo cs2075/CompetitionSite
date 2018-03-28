@@ -1,8 +1,11 @@
 header {
 }
 h1{ /* main heading*/
+  color: #e08283;
 }
 h2{ /* tool bar */
+  background-color: #019875;
+  color: white;
 }
 h3{ /* your title for your page  */
 }
@@ -20,8 +23,17 @@ p { /* text talk about specific part eg dress 1 */
 }
 
 /*colors:
+
+PALETTE CHOICE 1
 light blue #4ecdc4
 turquoise #1ba39c
-teal #019875
+dark teal #019875
 deep salmon #e08283
 salmon #f1a9a0
+
+PALETTE CHOICE 2
+turquoise #29c99d
+medium pink #eeb0b0
+light pink #f9cae6
+light mint #b3ffb4
+dark grey #5e5e5e
