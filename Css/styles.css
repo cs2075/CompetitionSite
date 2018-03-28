@@ -1,30 +1,20 @@
 header {
 }
-h1{
-  /* main heading*/
+h1{ /* main heading*/
 }
 h2{ /* tool bar */
-
 }
-h3{
-  /* your title for your page  */
+h3{ /* your title for your page  */
 }
-h4{
-  /* large text within your page eg dress 1   */
+h4{ /* large text within your page eg dress 1   */
 }
 image{
-
 }
-
-
 body {
 }
-p {
-  /* text talk about specific part eg dress 1 */
+p { /* text talk about specific part eg dress 1 */
 }
-.small{
-  /* price for each item */
+.small{ /* price for each item */
 }
 @media (max-width: 500px) {
-  }
 }
