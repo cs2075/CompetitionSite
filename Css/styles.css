@@ -1,21 +1,33 @@
 <!DOCTYPE html>
-header {
+header{
+  text-align: center;
 }
 h1{ /*Stressy Jessy*/
   text-align: center;
   color: #e08283;
-  font-size: 50px;
+  font-size: 75px;
 }
 h2{ /*Tool Bar*/
+  text-align: center;
   background-color: #019875;
   color: white;
-  font-size: 30px;
+  font-size: 37.5px;
+}
+ul{
+  padding: 10px;
+}
+li{
+  display: inline;
+  padding: 0px 15px 0px 15px;
+}
+a{
+  color: white;
 }
 h3{ /*Page-Specific Title*/
   font-size: 30px;
 }
 h4{ /*Page Options 1-5*/
-  font-size: 20px;
+  font-size: 25px;
 }
 image{
 }
