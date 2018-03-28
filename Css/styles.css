@@ -26,27 +26,31 @@ a{
   color: white;
 }
 h3{ /*Page-Specific Title*/
-  font-size: 30px;
+  font-size: 37.5px;
 }
 h4{ /*Page Options 1-5*/
-  font-size: 25px;
+  font-size: 27.5px;
+  text-align: justify;
 }
 image{
 }
 body {
+  margin: 0 auto;
   font-family: helvetica, sans-serif;
 }
 article{
-  background-color: #4ecdc4;
-  border: 7.5px solid white;
-  border-radius: 25px;
-  max-width: 750px;
   padding: 25px;
   margin: 0 auto;
-  height: 250px;
+  height: 500px;
 }
 p { /*Further Information for Options*/
-  font-size: 15px;
+  font-size: 25px;
+  background: rgba(0,0,0,1);
+  background-size: cover;
+  color: rgba(255,255,255,1);
+  padding: 10px;
+  text-align: justify;
+  line-height: 45px;
 }
 .small{ /*Prices for Options*/
 }
@@ -80,7 +84,46 @@ input[type="submit"]{
     display: block;
     padding: 5px;
   }
-  }
+}
+div{
+}
+.venues{
+  background-size: cover;
+}
+.dresses{
+  background-size: cover;
+}
+.henparties{
+  background-size: cover;
+}
+.honeymoons{
+  background-size: cover;
+}
+.submitemail{
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
+.hawaii{
+  background-image: url("https://imgur.com/ThyYBaz.jpg");
+  background-size: cover;
+}
+.seoul{
+  background-image: url("https://www.telegraph.co.uk/content/dam/Travel/Destinations/Asia/south-korea/Seoul-night-aerial.jpg");
+  background-size: cover;
+}
+.sorrento{
+  background-image: url("https://imgur.com/ykDNorC.jpg");
+  background-size: cover;
+}
+.crete{
+  background-image: url("https://www.travelandinspiration.com/wp-content/uploads/2017/05/beach-villas-bali-crete-greece.jpg");
+  background-size: cover;
+}
+.cornwall{
+  background-image: url("https://webpics.classic.co.uk/webpic/2763/27630156.jpg");
+  background-size: cover;
+}
 </html>
 /*colors:
 PALETTE CHOICE 1
