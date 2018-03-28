@@ -130,6 +130,9 @@ div{
   font-size: 25px;
   padding: 0 0 17.5px 0;
 }
+.guildhall{
+  background-image: url("http://www.free-city-guides.com/wp-content/uploads/2014/10/Bath-Guildhall-exterior.jpg");
+}
 .hawaii{
   background-image: url("https://imgur.com/ThyYBaz.jpg");
   background-size: cover;
