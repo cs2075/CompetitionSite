@@ -5,14 +5,14 @@ header{
 }
 h1{ /*Stressy Jessy*/
   text-align: center;
-  color: #ffcce4;
+  color: #ffcce6;
   font-size: 80px;
   padding: 10px 0px 25px 0px;
   font-family: "Pacifico", cursive;
 }
 h2{ /*Tool Bar*/
   text-align: center;
-  background-color: #b3f0ff;
+  background-color: #536875;
   color: white;
   font-size: 37.5px;
   font-family: "Bree Serif", bold;
@@ -31,7 +31,7 @@ h3{ /*Page-Specific Title*/
   font-size: 37.5px;
   font-family: "Pacifico", cursive;
   padding: 0 0 10px 10px;
-  color: #ffcce4;;
+  color:#ffcce6;
 }
 image{
 }
@@ -73,19 +73,21 @@ input{
   border: 0.5;
   padding: 7.5px 10px 7.5px 10px;
   font-size: 17.5px;
-  color: #4ecdc4;
+  color: #536875;
   font-family: "Bree Serif";
 }
 input[type="email"]{
   color: #4ecdc4;
-  font-size: 18px;
-  padding: 5px 5px 7.5px 5px;
+
+  padding: 5px 7.5px 5px 5px;
+  margin-top: 10px;
+  margin-right: 10px;
 }
 input[type="submit"]{
-  background-color: #ffcce4;
+  background-color: #ffcce6;
   color: white;
-  font-size: 18px;
-  padding: 5px 5px 7.5px 5px;
+
+  padding: 5px 7.5px 5px 5px;
 }
 button{
   background-color: #f1a9a0;
@@ -126,7 +128,7 @@ div{
   background-size: cover;
 }
 .submitemail{
-  background-color: grey;
+  background-color: #536875;
   color: white;
   text-align: center;
   font-family: "Pacifico";
@@ -178,10 +180,15 @@ dark teal #019875
 deep salmon #e08283
 salmon #f1a9a0
 
+
 PALETTE CHOICE 2
 turquoise #29c99d
 medium pink #eeb0b0
 light pink #f9cae6
 light mint #b3ffb4
 dark grey #5e5e5e
+
+palette choice
+grey blue #536875
+light pink #ffcce6
 */
