@@ -29,9 +29,9 @@ a{
 }
 h3{ /*Page-Specific Title*/
   font-size: 37.5px;
-  font-family: "Lobster", cursive;
+  font-family: "Pacifico", cursive;
   padding: 0 0 10px 10px;
-  color: #f1a9a0;
+  color: #ffcce4;;
 }
 image{
 }
@@ -47,7 +47,7 @@ article{
 }
 p { /*Further Information for Options*/
   font-size: 25px;
-  font-family: "Acme";
+  font-family: "Bree Serif";
   max-width: 850px;
   background: black;
   background: -webkit-linear-gradient(bottom,rgba(0,0,0,1),rgba(0,0,0,0.4));
@@ -78,11 +78,12 @@ input{
 }
 input[type="email"]{
   color: #4ecdc4;
+  font-size: 18px;
 }
 input[type="submit"]{
-  background-color: #e08283;
+  background-color: #ffcce4;
   color: white;
-  font-size: 20px;
+  font-size: 18px;
   padding: 5px 5px 7.5px 5px;
 }
 button{
