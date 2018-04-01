@@ -43,12 +43,12 @@ body {
 article{
   padding: 25px;
   margin: 0 auto;
-  height: 550px;
+  height: 537.5px;
 }
 p { /*Further Information for Options*/
   font-size: 25px;
   font-family: "Bree Serif";
-  max-width: 800px;
+  max-width: 850px;
   background: black;
   background: -webkit-linear-gradient(bottom,rgba(0,0,0,1),rgba(0,0,0,0.4));
   background: -moz-linear-gradient(bottom,rgba(0,0,0,1),rgba(0,0,0,0.4));
@@ -56,7 +56,7 @@ p { /*Further Information for Options*/
   color: rgba(255,255,255,1);
   padding: 10px;
   text-align: justify;
-  line-height: 45px;
+  line-height: 35px;
   position: absolute;
   bottom: 0;
   margin: 0;
@@ -89,13 +89,10 @@ input[type="submit"]{
   padding: 5px 7.5px 5px 5px;
   font-family: "Bree Serif";
   margin: 10px 5px 5px 7.5px;
-
 }
-
 button{
   color:red;
 }
-
 @media (max-width: 750px) {
   h1{
     font-size: 35px;
@@ -140,8 +137,32 @@ div{
   font-size: 25px;
   margin: 0 auto;
 }
+.elmore{
+  background-image: url("http://louisebowlesphotography.co.uk/blog/wp-content/uploads/2014/03/ElmoreCourt_009.jpg");
+  background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.chewvalley{
+  background-image: url("http://www.samitipi.co.uk/wp-content/uploads/2014/11/Sami-Tipi-Stunning-Event-Tipis-for-your-special-day.jpg");
+  background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.clearwell{
+  background-image: url("https://hitchedukir.hitched.co.uk/Temp/1000_1000_scaled_1799549_clearwell-ca-20160706125412436.jpg");
+  background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.boathouse{
+  background-image: url("https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/26962118_2007896859470398_4021629029349165441_o.jpg?_nc_cat=0&oh=0cfa99b6573161e3101f51d85ce1359c&oe=5B3CAE9C");
+  background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
+}
 .guildhall{
-  background-image: url("https://www.bathvenues.co.uk/sites/bath_venues/files/heritage/Cahoots%20copy%20resized.jpg");
+  background-image: url("https://www.bathvenues.co.uk/sites/bath_venues/files/styles/gallery_item_colorbox/public/704.jpg?itok=OYRjMKFw");
   background-size: cover;
   max-width: 900px;
   margin: 0 auto;
@@ -176,7 +197,6 @@ div{
   max-width: 900px;
   margin: 0 auto;
 }
-
 </html>
 
 
