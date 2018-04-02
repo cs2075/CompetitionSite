@@ -197,6 +197,36 @@ div{
   max-width: 900px;
   margin: 0 auto;
 }
+.vegas{
+  background-image: url("https://res.cloudinary.com/simpleview/image/upload/c_limit,f_auto,h_1200,q_75,w_1200/v1/clients/lasvegas/strip_b86ddbea-3add-4995-b449-ac85d700b027.jpg");
+  background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.ibiza{
+  background-image: url("https://ob9a8415roh4djoj110c31a1-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/ushuaia-ibiza.jpg");
+  background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.barcelona{
+  background-image: url("http://hamdenregionalchamber.com/wp-content/uploads/2017/09/park-guell.jpg");
+  background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.london{
+  background-image: url("https://static.designmynight.com/uploads/2017/11/image15-optimised.png");
+  background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.bathspa{
+  background-image: url("https://deadlyisthefemale.com/wp-content/uploads/2017/04/Bath-Spa.jpg");
+  background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
+}
 </html>
 
 
