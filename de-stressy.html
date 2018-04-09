@@ -99,11 +99,16 @@ $('body')
   });
   </script>
 
-  <script>
+  <!--<script>
 $(document).ready(function() {
   $("button").click(function(){
   alert("Thank you!");
 });
+});
+</script> Thank you button-->
+<script>
+$('button').on('click',function(){
+    !$(this).hasClass('ButtonClicked') ? $(this).addClass('ButtonClicked') : '';
 });
 </script>
 </html>

@@ -93,6 +93,11 @@ input[type="submit"]{
 button{
   color:red;
 }
+
+.ButtonClicked {
+    background-color:hotpink;
+}
+
 @media (max-width: 750px) {
   h1{
     font-size: 35px;
