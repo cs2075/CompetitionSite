@@ -203,6 +203,20 @@ div{
   max-width: 900px;
   margin: 0 auto;
 }
+
+.container.row.col-xs-4.pinklow{
+  background-image: url('Images/PinkDressLow.png');
+}
+
+.container.row.col-xs-4.pinkmid{
+    background-image: url('Images/PinkDressMid.png');
+}
+
+.container.row.col-xs-4.pinkhigh{
+  background-image: url('Images/PinkDressHigh.png');
+}
+
+
 .vegas{
   background-image: url("https://res.cloudinary.com/simpleview/image/upload/c_limit,f_auto,h_1200,q_75,w_1200/v1/clients/lasvegas/strip_b86ddbea-3add-4995-b449-ac85d700b027.jpg");
   background-size: cover;
