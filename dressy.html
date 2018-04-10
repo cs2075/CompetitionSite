@@ -159,6 +159,12 @@
     <input type="submit">
 </div>
 
+<script>
+$('button').on('click',function(){
+    !$(this).hasClass('ButtonClicked') ? $(this).addClass('ButtonClicked') : '';
+});
+</script>
+
 
 </body>
 </html>
