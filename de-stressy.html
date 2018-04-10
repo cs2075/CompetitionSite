@@ -109,10 +109,10 @@ $(document).ready(function() {
 $('button').on('click',function(){
     !$(this).hasClass('ButtonClicked') ? $(this).addClass('ButtonClicked') : '';
 });
+$('article').hover( function() {
+    $(this).addClass('show-description');
+});
+
 </script>
-<script>
-  $('div').on('mouseover', function() {
-      $(this).toggleClass('show-description');
-  });
-</script>
+
 </html>
