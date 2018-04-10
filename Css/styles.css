@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 @import url("https://fonts.googleapis.com/css?family=Acme|Bree+Serif|Lobster|Pacifico|Shadows+Into+Light");
 header{
   text-align: center;
@@ -68,6 +68,7 @@ p { /*Further Information for Options*/
 }
 small{ /*Prices for Options*/
   font-size: 17.5px;
+  opacity: 0;
 }
 span{
 }
@@ -98,11 +99,6 @@ input[type="submit"]{
 button{
   color:red;
   float: right;
-}
-
-.ButtonClicked {
-    background-color:hotpink;
-    color:white;
 }
 
 @media (max-width: 750px) {
@@ -329,7 +325,18 @@ div{
   margin: 0 auto;
 }
 
-</html>
+.show-description p {
+  height: 150px;
+}
+
+.show-description small {
+  opacity: 1;
+}
+/*java script*/
+.ButtonClicked {
+    background-color:hotpink;
+    color:white;
+}
 
 
 

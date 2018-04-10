@@ -76,6 +76,10 @@ $('button').on('click',function(){
     !$(this).hasClass('ButtonClicked') ? $(this).addClass('ButtonClicked') : '';
 });
 </script>
-
+<script>
+  $('div').on('mouseover', function() {
+      $(this).toggleClass('show-description');
+  });
+</script>
 </body>
 </html>

@@ -10,6 +10,7 @@
   <script src="Js/bootstrap.min.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Acme|Bree+Serif|Lobster|Pacifico|Shadows+Into+Light" rel="stylesheet">
   <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+  <script src="/assets/jquery.js"></script>
 </head>
 <body>
 <header>
@@ -23,7 +24,7 @@
       <li><a href="de-stressy.html">De-Stressy</a></li>
     </ul>
   </h2>
-  <h3>Dressy...a wedding wouldn't be perfect without the perfect dresses </h3>
+  <h3>Find the perfect wedding dresses ...a lets get Dressy </h3>
 </header>
 <br/><h4>Wedding Dresses for every budget </h4>
 <div class="container">
@@ -160,7 +161,11 @@ $('button').on('click',function(){
     !$(this).hasClass('ButtonClicked') ? $(this).addClass('ButtonClicked') : '';
 });
 </script>
-
+<script>
+  $('div').on('mouseover', function() {
+      $(this).toggleClass('show-description');
+  });
+</script>
 
 </body>
 </html>
