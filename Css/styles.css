@@ -33,6 +33,12 @@ h3{ /*Page-Specific Title*/
   padding: 0 0 10px 10px;
   color:#ffcce6;
 }
+h4{ /*Page-Specific Title*/
+  font-size: 30px;
+  font-family: "Pacifico", cursive;
+  padding: 0 0 10px 10px;
+  color:#ffcce6;
+}
 image{
 }
 body {
@@ -92,6 +98,7 @@ input[type="submit"]{
 }
 button{
   color:red;
+  float: right;
 }
 
 .ButtonClicked {
@@ -229,6 +236,12 @@ div{
 }
 .bathspa{
   background-image: url("https://deadlyisthefemale.com/wp-content/uploads/2017/04/Bath-Spa.jpg");
+  background-size: cover;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.container.row.col-xs-4.wedvlow{
+  background-image: url('../Images/WeddingDressVLow');
   background-size: cover;
   max-width: 900px;
   margin: 0 auto;
