@@ -254,8 +254,8 @@ div{
   max-width: 900px;
   margin: 0 auto;
 }
-.container.row.col-xs-4.wedvlow{
-  background-image: url('../Images/WeddingDressVLow');
+.wedvlow{
+  background-image: url("https://media.missguided.com/s/missguided/DE916554_set/1/red-wrap-bardot-skater-dress.jpg");
   background-size: cover;
   max-width: 900px;
   margin: 0 auto;
