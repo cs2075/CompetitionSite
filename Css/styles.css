@@ -33,6 +33,12 @@ h3{ /*Page-Specific Title*/
   padding: 0 0 10px 10px;
   color:#ffcce6;
 }
+h4{ /*Page-Specific Title*/
+  font-size: 30px;
+  font-family: "Pacifico", cursive;
+  padding: 0 0 10px 10px;
+  color:#ffcce6;
+}
 image{
 }
 body {
@@ -92,6 +98,7 @@ input[type="submit"]{
 
 button{
   color:red;
+  float: right;
 }
 
 @media (max-width: 750px) {
@@ -174,22 +181,22 @@ div{
   margin: 0 auto;
 }
 
-.PinkDressLow{
-  background-image: url("Images/PinkDressLow.png"));
+.container.row.col-xs-4.pinklow{
+  background-image: url('Images/PinkDressLow.png');
   background-size: cover;
   max-width: 900px;
   margin: 0 auto;
 }
 
-.PinkDressMid{
-  background-image: url("Images/PinkDressMid.png"));
+.container.row.col-xs-4.pinkmid{
+  background-image: url('Images/PinkDressMid.png');
   background-size: cover;
   max-width: 900px;
   margin: 0 auto;
 }
 
-.PinkDressHigh{
-  background-image: url("Images/PinkDressHigh.png"));
+.container.row.col-xs-4.pinkhigh{
+  background-image: url('Images/PinkDressHigh.png');
   background-size: cover;
   max-width: 900px;
   margin: 0 auto;
