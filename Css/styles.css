@@ -127,26 +127,30 @@ div{
 }
 .venues{
   background-size: cover;
-  height: 250px;
+  height: 450px;
   margin: auto;
+  max-width: 900px;
   background-image: url("https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/26962118_2007896859470398_4021629029349165441_o.jpg?_nc_cat=0&oh=0cfa99b6573161e3101f51d85ce1359c&oe=5B3CAE9C");
 }
 .dresses{
   background-size: cover;
-  height: 250px;
+  height: 450px;
   margin: auto;
+  max-width: 900px;
   background-image: url("http://www.vivabridal.co.uk/wp-content/uploads/2012/02/217202-C-e1503062524248.jpeg");
 }
 .henparties{
   background-size: cover;
-  height: 250px;
+  height: 450px;
   margin: auto;
+  max-width: 900px;
   background-image: url("https://deadlyisthefemale.com/wp-content/uploads/2017/04/Bath-Spa.jpg");
 }
 .honeymoons{
   background-size: cover;
-  height: 250px;
+  height: 450px;
   margin: auto;
+  max-width: 900px;
   background-image: url("https://imgur.com/ThyYBaz.jpg");
 }
 .submitemail{
@@ -217,7 +221,6 @@ div{
   max-width: 900px;
   margin: 0 auto;
 }
-
 .container.row.col-xs-4.pinklow{
   background-image: url('Images/PinkDressLow.png');
 }
@@ -229,8 +232,6 @@ div{
 .container.row.col-xs-4.pinkhigh{
   background-image: url('Images/PinkDressHigh.png');
 }
-
-
 .vegas{
   background-image: url("https://res.cloudinary.com/simpleview/image/upload/c_limit,f_auto,h_1200,q_75,w_1200/v1/clients/lasvegas/strip_b86ddbea-3add-4995-b449-ac85d700b027.jpg");
   background-size: cover;
@@ -333,8 +334,6 @@ div{
   max-width: 900px;
   margin: 0 auto;
 }
-
-
 .show-description small {
   opacity: 1;
 }
