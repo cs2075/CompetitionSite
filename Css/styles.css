@@ -97,7 +97,7 @@ input[type="submit"]{
   margin: 10px 5px 5px 7.5px;
 }
 button{
-  color:red;
+  color:#ffcce6;
   float: right;
 }
 
@@ -342,9 +342,10 @@ div{
 }
 /*java script*/
 .ButtonClicked {
-    background-color:hotpink;
+    background-color:#ffcce6;
     color:white;
 }
+
 
 
 
